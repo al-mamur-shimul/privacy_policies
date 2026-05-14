@@ -28,8 +28,7 @@ We request only the permissions necessary for the stated functionality. Camera a
 If you are subject to local privacy laws that require additional disclosures (e.g., EU GDPR), you may wish to include a link to this policy from your app and provide contact details for privacy requests.
 Contact & requests
 For questions, privacy requests, or to request deletion of any support-provided data, contact:
-support@yourdomain.com
-or use the repository issue tracker: https://github.com/your-repo (replace with your actual contact)
+almamur.official@gmail.com
 Play Store data safety declaration suggestion
 Data: Device or other IDs — No
 Data: Camera images — No (processed on device only)
