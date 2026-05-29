@@ -1,79 +1,106 @@
-## Camera Permission & QR Scanning — Optic Qr
+# Privacy Policy
 
-**Effective date:** May 13, 2026
+Last updated: May 29, 2026
 
----
+This Privacy Policy explains how information is collected, used, and protected when you use this application and related services.
 
-### Overview
+By using the application, you agree to the practices described in this policy.
 
-Optic Qr uses your device camera **exclusively** to scan QR codes. This section explains what we use the camera for, what data (if any) we collect, how it is processed, and how you can control the permission.
+## Information We Collect
 
-### Why we request Camera permission
+Depending on how the application is used, the following information may be collected:
 
-* **Purpose:** The camera is required to allow the app to read and decode QR codes (URLs, text, contact details, Wi-Fi network info, etc.). Without camera access, the real-time scanning feature cannot function.
-* **Scope:** Camera access is only requested while you are using the scanning feature. The app does not attempt to access the camera when the scanner is not active.
+* Device information
+* App usage information
+* Crash reports and diagnostics
+* User-provided information
+* Network and connection information
 
-### How camera data is handled
+Some information may be collected automatically by third-party services integrated into the application.
 
-* **Local processing:** Frames captured by the camera are processed locally on your device to detect and decode QR codes. We **do not** transmit raw camera frames to any server for scanning or processing.
-* **No persistent upload:** By default, camera images or video frames are not uploaded, stored remotely, or shared with third parties.
-* **User-initiated saves:** If you choose to save or export an image (e.g., saving a generated or scanned QR image to your gallery), the saved image will be stored on your device. Any sharing of those saved images is done by you explicitly via share sheets or exports.
-* **Logs & metadata:** We do not collect or associate camera images with a user account (there is no account system). Minimal non-identifiable usage telemetry may be collected for crash reporting; such telemetry **never** includes raw camera images or decoded content.
+## How Information Is Used
 
-### Permissions & Control
+Collected information may be used to:
 
-* **Granting permission:** The app requests camera permission the first time you open the scanning feature. You can grant or deny it.
-* **Revoking permission:** You can revoke camera permission at any time through your device settings:
-> **Settings** → **Apps** → **Optic Qr** → **Permissions** → **Camera**
+* Provide and maintain the application
+* Improve functionality and performance
+* Fix bugs and technical issues
+* Monitor usage and stability
+* Respond to support requests
+* Comply with legal obligations
 
+## Third-Party Services
 
-* **Denial fallback:** If camera permission is denied, you can still use other app features that do not require the camera, such as creating QR codes from text.
+The application may use third-party services that collect and process data according to their own privacy policies.
 
-### Third-party services and SDKs
+Examples may include:
 
-* We do not send camera frames to third-party services.
-* Any third-party SDKs used are evaluated to ensure they do not access camera frames or decode images off-device without explicit disclosure and consent.
+* Analytics providers
+* Crash reporting tools
+* Authentication providers
+* Cloud storage services
+* Advertising networks
 
-### Data retention and deletion
+Users should review the privacy policies of those services separately.
 
-* **Camera frames are ephemeral:** Frames used for scanning are processed in memory and discarded once decoded. We do not retain raw camera images.
-* **Saved images:** Images you save explicitly to your gallery remain on your device until you delete them.
-* **Support requests:** If you submit a bug report including screenshots, those will be handled according to our standard support/privacy practices.
+## Data Sharing
 
----
+Personal information is not sold to third parties.
 
-### Security & Legal
+Information may be shared only in the following situations:
 
-* **Security:** We follow standard industry security practices to protect data stored on the device.
-* **Compliance:** We request only the permissions necessary for the stated functionality. Camera access is the minimum required to provide scanning.
-* **GDPR/Local Laws:** If you are subject to specific local privacy laws, please use the contact details below for privacy requests.
+* With service providers that support application functionality
+* When required by law or legal process
+* To protect rights, security, or prevent misuse
+* During business transfers such as mergers or acquisitions
 
-### Contact & Requests
+## Data Storage and Security
 
-For questions, privacy requests, or data deletion, contact:
-**almamur.official@gmail.com**
+Reasonable technical and organizational measures are used to protect information from unauthorized access, disclosure, or loss.
 
----
+However, no method of electronic transmission or storage is completely secure.
 
-### Play Store Data Safety Declaration
+## Data Retention
 
-| Data Category | Status |
-| --- | --- |
-| **Device or other IDs** | No |
-| **Camera images** | No (Processed on-device only) |
-| **Photos or media** | Only if user explicitly saves/shares |
-| **User-provided content** | Only if user chooses to save scanned/generated content |
-| **Sharing** | None (Unless initiated by the user) |
+Information is retained only for as long as necessary to:
 
----
+* Provide the service
+* Meet legal obligations
+* Resolve disputes
+* Enforce agreements
 
-### Short FAQ
+Retention periods may vary depending on the type of data.
 
-**Q: Will my camera images be uploaded?**
-A: **No.** Camera frames are processed locally to detect QR codes and are never uploaded by default.
+## Children’s Privacy
 
-**Q: What happens if I deny camera permission?**
-A: The scanner feature will not work, but you can still create QR codes manually within the app.
+The application is not intended for children under the age of 13.
 
-**Q: How can I remove camera access?**
-A: Go to your device **Settings** → **Apps** → **Optic Qr** → **Permissions** → **Camera** and revoke access.
+Personal information from children under 13 is not knowingly collected. If such information is identified, it will be removed.
+
+## Your Rights
+
+Depending on your location and applicable laws, you may have rights to:
+
+* Access your information
+* Correct inaccurate information
+* Request deletion of data
+* Restrict or object to processing
+* Request data portability
+
+Requests may be submitted through the contact information below.
+
+## External Links
+
+The application may contain links to external websites or services. This Privacy Policy does not apply to third-party websites.
+
+Users should review the privacy policies of external services separately.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.
+
+Updated versions will be posted with a revised “Last updated” date. Continued use of the application after changes become effective constitutes acceptance of the updated policy.
+
+## Contact
+
+If you have questions about this Privacy Policy, you may contact the application owner or support team through the appropriate support channel or email address.
